@@ -1,7 +1,7 @@
 # Abhishek Jujjuvarapu
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Security-Aware+Engineer;AI-Driven+Product+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;Cybersecurity+Professional;AI-Powered+Product+Builder;Founder+%40+CodeLoom" />
 </p>
 
 <p align="center">
@@ -15,74 +15,108 @@
 
 ## About
 
-I’m a full-stack developer focused on building secure, production-ready web applications. My work spans frontend systems, backend APIs, and real-world workflows used by startups, teams, and clients.
+I'm a Full-Stack Engineer and Cybersecurity Professional focused on building secure, scalable, and production-ready software systems. My work spans modern web applications, cloud-native infrastructure, AI-powered products, and real-world business solutions.
 
-I follow a security-aware development approach, applying authentication, access control, and OWASP-aligned practices to ensure reliability, data protection, and long-term maintainability.
+I follow a security-first development approach, implementing authentication, access control, secure APIs, and OWASP-aligned practices to deliver reliable, maintainable, and resilient applications.
 
-I’ve built and contributed to AI-powered tools, admin dashboards, real-time platforms, and e-commerce systems, with an emphasis on clarity, scalability, and delivery.
+Beyond engineering, I've mentored 5,000+ students through online and offline programs and founded CodeLoom to help startups and businesses transform ideas into scalable digital products.
 
 ---
 
-## What I Work On
+## What I Build
 
-- Full-stack web applications and internal tools  
-- Secure authentication, APIs, and real-time systems  
-- AI-assisted products with practical business use cases  
+* Full-stack web and mobile applications
+* Secure authentication and role-based systems
+* Cloud-native and distributed architectures
+* AI-powered products and business automation platforms
+* Real-time applications and scalable backend systems
 
 ---
 
 ## Tech Stack
 
 ### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,react" />
 </p>
 
 ### Backend & APIs
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql" />
 </p>
 
-### Tools & Platforms
+### Cloud & DevOps
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux" />
 </p>
 
-### Application Security
+### Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+### Security & Monitoring
+
 <p>
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
 ---
 
 ## Featured Projects
 
-### Empathy AI — AI-Powered Mental Health Support Platform
-AI-driven mental health application with secure authentication, contextual conversations, and privacy-aware system design.
+### 🧠 Empathy AI — Multimodal Mental Health Assistant
 
-**Tech:** React, Node.js, Python, Flask, MongoDB, OpenAI API  
+AI-powered mental health platform leveraging text, speech, and facial emotion analysis to provide personalized therapy recommendations and intelligent conversational experiences.
+
+**Tech:** React.js, Node.js, Flask, MongoDB, DeepFace, DistilBERT, LangChain, Docker, JWT, Prometheus, Grafana
+
 🔗 https://github.com/Abhi-0930/mental-health-therapy-bot
 
 ---
 
----
+### 🍔 BiteBuzz — Food Delivery Management Platform
 
-### Bite Buzz — Food Delivery Platform
-End-to-end food delivery system with real-time order tracking and role-based workflows.
+Production-ready food delivery platform featuring customer and admin dashboards, real-time order tracking, secure payments, and scalable backend workflows.
 
-**Tech:** MERN Stack, Socket.io, Stripe  
+**Tech:** Next.js, Node.js, PostgreSQL, MongoDB, WebSockets, Razorpay, JWT
+
 🔗 https://github.com/Abhi-0930/mern-food-delivery
 
 ---
 
+### 🏢 CodeLoom CRM — Business Operations Platform
+
+CRM and business management system designed for agencies and startups, supporting client management, project tracking, invoicing, support systems, and workflow automation.
+
+**Tech:** Next.js, Node.js, PostgreSQL, Redis, Docker, Kubernetes, AWS
+
 ---
 
-## Open Source & Freelance
+## Professional & Community Involvement
 
-- Open Source Contributor at **GirlScript Summer of Code (GSSoC 2025)**  
-- Freelance full-stack developer delivering production-ready systems for startups and founders  
-- Mentored 30+ students in full-stack development and application security fundamentals  
+* Founder & Full-Stack Engineer at **CodeLoom**
+* Open Source Contributor at **GirlScript Summer of Code (GSSoC)**
+* Mentored **5,000+ students** through online and offline technical programs
+* Conducted workshops and training sessions across **10+ engineering institutions**
+* Collaborated with startups on MVP development, system architecture, and full-stack product engineering
+
+---
+
+## Currently Exploring
+
+* Advanced AWS Architecture
+* Distributed Systems & Platform Engineering
+* AI Agents & LLM Workflows
+* Application Security Engineering
+* Large-Scale System Design
 
 ---
 
@@ -95,13 +129,20 @@ End-to-end food delivery system with real-time order tracking and role-based wor
 
 ---
 
-## Contact & Portfolio
+## Let's Connect
 
-If you’re looking to build secure, scalable software or collaborate on a meaningful product:
+If you're building something meaningful, looking for technical collaboration, or need help transforming an idea into a scalable product, let's connect.
 
-📧 **Email:** abhishek.j3094@gmail.com  
-🌐 **Portfolio:** https://abhishek-portfolio-delta-eosin.vercel.app/  
-🌍 **Location:** Hyderabad, India (Remote-friendly)
+📧 **Email:** [abhishek.j3094@gmail.com](mailto:abhishek.j3094@gmail.com)
+
+🌐 **Portfolio:** https://abhishek-portfolio-delta-eosin.vercel.app/
+
+💼 **LinkedIn:** https://www.linkedin.com/in/abhishek-jujjuvarapu-556899276
+
+🏢 **CodeLoom:** https://www.codeloom.in
+
+📍 **Hyderabad, India (Remote-Friendly)**
 
 ---
 
+### Building secure, scalable, and impactful software systems.
