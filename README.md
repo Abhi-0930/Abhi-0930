@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:abhishek.j3094@gmail.com">abhishek.j3094@gmail.com</a> •
   <a href="https://www.linkedin.com/in/abhishek-jujjuvarapu-556899276">LinkedIn</a> •
-  <a href="https://abhishek-portfolio-delta-eosin.vercel.app/">Portfolio</a> •
+  <a href="https://abhi-training-portfolio.vercel.app/">Portfolio</a> •
   Hyderabad, India (Remote)
 </p>
 
