@@ -1,148 +1,57 @@
-# Abhishek Jujjuvarapu
+# Hi, I'm Abhishek Jujjuvarapu 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;Cybersecurity+Professional;AI-Powered+Product+Builder;Founder+%40+CodeLoom" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cybersecurity+Professional;Technical+Trainer+%26+Mentor;Founder+%40+CodeLoom;Founder+%40+PrepPath" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <a href="mailto:abhishek.j3094@gmail.com">abhishek.j3094@gmail.com</a> •
+<div align="center">
+  <a href="mailto:abhishek.j3094@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/abhishek-jujjuvarapu-556899276">LinkedIn</a> •
-  <a href="https://abhi-training-portfolio.vercel.app/">Portfolio</a> •
-  Hyderabad, India (Remote)
-</p>
+  <a href="https://abhishek-portfolio-delta-eosin.vercel.app/">Portfolio</a> •
+  <a href="https://www.codeloom.in">CodeLoom</a>
+</div>
 
 ---
 
-## About
+## 👨🏻‍💻 About Me
 
-I'm a Full-Stack Engineer and Cybersecurity Professional focused on building secure, scalable, and production-ready software systems. My work spans modern web applications, cloud-native infrastructure, AI-powered products, and real-world business solutions.
+I am a Full-Stack Engineer and Cybersecurity Professional focused on building secure, scalable, and production-ready systems. I take a security-first approach to development—integrating robust authentication, access controls, and OWASP best practices into everything I build. 
 
-I follow a security-first development approach, implementing authentication, access control, secure APIs, and OWASP-aligned practices to deliver reliable, maintainable, and resilient applications.
+Beyond writing code, I am the founder of **CodeLoom**, where we help startups transform ideas into scalable digital products, and I actively mentor aspiring engineers, having trained over **5,000+ students** in full-stack development and DSA.
 
-Beyond engineering, I've mentored 5,000+ students through online and offline programs and founded CodeLoom to help startups and businesses transform ideas into scalable digital products.
-
----
-
-## What I Build
-
-* Full-stack web and mobile applications
-* Secure authentication and role-based systems
-* Cloud-native and distributed architectures
-* AI-powered products and business automation platforms
-* Real-time applications and scalable backend systems
+*   **What I Build:** Cloud-native architectures, AI-powered applications, secure APIs, and real-time backend systems.
+*   **Currently Exploring:** Advanced AWS Architecture, Distributed Systems, AI Agents (LLM Workflows), and Large-Scale System Design.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
+**Frontend & Mobile:**  
+<img align="center" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,react" />
-</p>
+**Backend & Databases:**  
+<img align="center" src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgresql,redis" />
 
-### Backend & APIs
+**DevOps, Cloud & Architecture:**  
+<img align="center" src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux" />
-</p>
-
-### Developer Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-### Security & Monitoring
-
-<p>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
+**Security & Observability:**  
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-## Featured Projects
+## 📈 GitHub Stats
 
-### 🧠 Empathy AI — Multimodal Mental Health Assistant
-
-AI-powered mental health platform leveraging text, speech, and facial emotion analysis to provide personalized therapy recommendations and intelligent conversational experiences.
-
-**Tech:** React.js, Node.js, Flask, MongoDB, DeepFace, DistilBERT, LangChain, Docker, JWT, Prometheus, Grafana
-
-🔗 https://github.com/Abhi-0930/mental-health-therapy-bot
-
----
-
-### 🍔 BiteBuzz — Food Delivery Management Platform
-
-Production-ready food delivery platform featuring customer and admin dashboards, real-time order tracking, secure payments, and scalable backend workflows.
-
-**Tech:** Next.js, Node.js, PostgreSQL, MongoDB, WebSockets, Razorpay, JWT
-
-🔗 https://github.com/Abhi-0930/mern-food-delivery
-
----
-
-### 🏢 CodeLoom CRM — Business Operations Platform
-
-CRM and business management system designed for agencies and startups, supporting client management, project tracking, invoicing, support systems, and workflow automation.
-
-**Tech:** Next.js, Node.js, PostgreSQL, Redis, Docker, Kubernetes, AWS
-
----
-
-## Professional & Community Involvement
-
-* Founder & Full-Stack Engineer at **CodeLoom**
-* Open Source Contributor at **GirlScript Summer of Code (GSSoC)**
-* Mentored **5,000+ students** through online and offline technical programs
-* Conducted workshops and training sessions across **10+ engineering institutions**
-* Collaborated with startups on MVP development, system architecture, and full-stack product engineering
-
----
-
-## Currently Exploring
-
-* Advanced AWS Architecture
-* Distributed Systems & Platform Engineering
-* AI Agents & LLM Workflows
-* Application Security Engineering
-* Large-Scale System Design
-
----
-
-## GitHub Stats
-
-<p align="center">
+<div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhi-0930&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-0930&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## Let's Connect
-
-If you're building something meaningful, looking for technical collaboration, or need help transforming an idea into a scalable product, let's connect.
-
-📧 **Email:** [abhishek.j3094@gmail.com](mailto:abhishek.j3094@gmail.com)
-
-🌐 **Portfolio:** https://abhishek-portfolio-delta-eosin.vercel.app/
-
-💼 **LinkedIn:** https://www.linkedin.com/in/abhishek-jujjuvarapu-556899276
-
-🏢 **CodeLoom:** https://www.codeloom.in
-
-📍 **Hyderabad, India (Remote-Friendly)**
-
----
-
-### Building secure, scalable, and impactful software systems.
+<div align="center">
+  <i>Building secure, scalable, and impactful software systems. Based in Hyderabad, India.</i>
+</div>
