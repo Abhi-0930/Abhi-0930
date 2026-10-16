@@ -8,7 +8,7 @@
   <a href="mailto:abhishek.j3094@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/abhishek-jujjuvarapu-556899276">LinkedIn</a> •
   <a href="https://abhi-portfolio.3094.workers.dev/">Portfolio</a> •
-  <a href="https://www.codeloom.in">CodeLoom</a>
+  <a href="https://www.codeloom.in">CodeLoom</a> •
   <a href="https://www.preppath.net">PrepPath</a>
 </div>
 
